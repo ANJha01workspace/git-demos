@@ -14,7 +14,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-#DB & ANJHA
+#ANJHA & DB
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
